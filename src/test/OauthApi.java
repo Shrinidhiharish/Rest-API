@@ -47,7 +47,7 @@ public class OauthApi {
 		{
 			if(apicourses.get(i).getCourseTitle().equalsIgnoreCase("SoapUI Webservices testing"))
 					{
-				
+				//System.out.println(apicourses.get(i).getPrice());
 					}
 		}
 		}
